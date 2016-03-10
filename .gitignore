@@ -1,0 +1,15 @@
+#
+# general
+#
+.DS_Store
+logs
+*.log
+pids
+*.pid
+*.seed
+.grunt
+node_modules
+bower_components
+.sass-cache
+.git
+
