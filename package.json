@@ -1,11 +1,11 @@
 {
   "name": "antelope",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Spryker frontend automation tool",
   "main": "antelope.js",
   "preferGlobal": "true",
   "scripts": {
-    "test": "node antelope test"
+    "test": "node antelope.js test"
   },
   "author": {
     "name": "Spryker Systems GmbH",
