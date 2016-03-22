@@ -1,6 +1,6 @@
 {
   "name": "antelope",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Spryker frontend automation tool",
   "main": "antelope.js",
   "preferGlobal": "true",
@@ -33,6 +33,7 @@
     "file-loader": "^0.8.5",
     "globby": "^4.0.0",
     "graceful-fs": "^4.1.2",
+    "organizer-loader": "github:ilmente/organizer-loader",
     "node-sass": "^3.4.2",
     "ramda": "^0.18.0",
     "resolve-url-loader": "^1.4.3",
