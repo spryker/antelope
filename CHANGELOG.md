@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.0.0
+- `optimizer-loader` added for a better assets organization in public folder
+- minor bugfixes
+- README updated 
+
 ### 0.2.0
 - cleaned up code
 - build timer *(it says how many seconds antelope takes for each build)*
