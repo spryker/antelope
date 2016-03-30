@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.1.0
+- custom `antelope` object property into webpack configuration 
+- disable a theme: set `antelope.disabled = true` property into webpack configuration 
+- test added to install command 
+
 ### 1.0.0
 - `optimizer-loader` added for a better assets organization in public folder
 - minor bugfixes
