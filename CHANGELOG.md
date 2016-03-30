@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.2
+- virtual machine watching system improved
+
 ### 1.1.1
 - resolve bundles root path case-sensitive issues
 
