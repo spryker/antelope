@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.1
+- resolve bundles root path case-sensitive issues
+
 ### 1.1.0
 - custom `antelope` object property into webpack configuration 
 - disable a theme: set `antelope.disabled = true` property into webpack configuration 

@@ -1,6 +1,6 @@
 {
   "name": "antelope",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Spryker frontend automation tool",
   "main": "antelope.js",
   "preferGlobal": "true",
