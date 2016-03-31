@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.3
+- new provider implementation
+
 ### 1.1.2
 - virtual machine watching system improved
 
