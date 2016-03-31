@@ -1,5 +1,10 @@
 # Changelog
 
+### 2.0.0
+- code refactor
+- webpack configuration moved ouside the tool
+- new provider implementation
+
 ### 1.1.3
 - new provider implementation
 
