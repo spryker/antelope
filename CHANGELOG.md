@@ -1,8 +1,7 @@
 # Changelog
 
-### 2.0.0-beta3
-- version test added (check Spryker GUI bundle compatibility)
-- `antelope print` command added to show raw informations
+### 2.0.0
+- version test added (check Spryker GUI bundle compatibility - temporary disabled)
 
 ### 2.0.0-beta2
 - legacy compatibility for v1 projects with `-l|--legacy` flag
