@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.0.1
+- npm public registry ready
+
 ### 2.0.0
 - version test added (check Spryker GUI bundle compatibility - temporary disabled)
 
@@ -10,6 +13,9 @@
 - code refactor
 - webpack configuration moved ouside the tool
 - new provider implementation
+
+### 1.1.4
+- npm public registry ready
 
 ### 1.1.3
 - new provider implementation

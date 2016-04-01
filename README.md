@@ -8,7 +8,7 @@ Frontend automation tool (useful for Spryker projects)
 
 ### Setup
 ```
-$ npm install -g github:spryker/antelope
+$ npm install -g antelope
 ```
 
 ### How to use it
