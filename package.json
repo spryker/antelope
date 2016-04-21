@@ -1,6 +1,6 @@
 {
   "name": "antelope",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "Spryker frontend automation tool",
   "main": "antelope.js",
   "preferGlobal": "true",
@@ -25,23 +25,23 @@
     "npm": ">=3.3.6"
   },
   "dependencies": {
-    "colors": "^1.1.2",
-    "commander": "^2.9.0",
-    "css-loader": "^0.23.0",
-    "exit": "^0.1.2",
-    "extract-text-webpack-plugin": "^1.0.1",
-    "file-loader": "^0.8.5",
-    "globby": "^4.0.0",
-    "graceful-fs": "^4.1.2",
-    "node-sass": "^3.4.2",
+    "colors": "~1.1.2",
+    "commander": "~2.9.0",
+    "css-loader": "~0.23.0",
+    "exit": "~0.1.2",
+    "extract-text-webpack-plugin": "~1.0.1",
+    "file-loader": "~0.8.5",
+    "globby": "~4.0.0",
+    "graceful-fs": "~4.1.2",
+    "node-sass": "~3.4.2",
     "organizer-loader": "github:ilmente/organizer-loader",
-    "ramda": "^0.18.0",
-    "resolve-url-loader": "^1.4.3",
-    "sass-loader": "^3.1.1",
-    "semver": "^5.1.0",
-    "shelljs": "^0.5.3",
-    "style-loader": "^0.13.0",
-    "url-loader": "^0.5.7",
-    "webpack": "^1.12.6"
+    "ramda": "~0.18.0",
+    "resolve-url-loader": "~1.4.3",
+    "sass-loader": "~3.1.1",
+    "semver": "~5.1.0",
+    "shelljs": "~0.5.3",
+    "style-loader": "~0.13.0",
+    "url-loader": "~0.5.7",
+    "webpack": "~1.12.6"
   }
 }

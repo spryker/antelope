@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.0.3
+- `package.json` allows module's patch version improvements only
+
+### 2.0.2
+- zed entry points fix: now build even within custom bundle
+
 ### 2.0.1
 - npm public registry ready
 
