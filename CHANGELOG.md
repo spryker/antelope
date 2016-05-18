@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.0.4
+- yves build process searches for common entry points in core, even when there is a target theme
+
 ### 2.0.3
 - `package.json` allows module's patch version improvements only
 
