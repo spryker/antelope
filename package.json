@@ -1,6 +1,6 @@
 {
   "name": "antelope",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "description": "Spryker frontend automation tool",
   "main": "antelope.js",
   "preferGlobal": "true",
@@ -21,19 +21,25 @@
     "bin": "./bin"
   },
   "engines": {
-    "node": ">=5.0.0",
-    "npm": ">=3.3.6"
+    "node": ">=5.11.0",
+    "npm": ">=3.4.0"
   },
   "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-module-alias": "^1.4.0",
+    "babel-plugin-webpack-alias": "^1.3.1",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
     "colors": "~1.1.2",
     "commander": "~2.9.0",
     "css-loader": "~0.23.0",
     "exit": "~0.1.2",
     "extract-text-webpack-plugin": "~1.0.1",
     "file-loader": "~0.8.5",
-    "globby": "~4.0.0",
+    "globby": "~5.0.0",
     "graceful-fs": "~4.1.2",
-    "node-sass": "~3.4.2",
+    "node-sass": "~3.7.0",
     "organizer-loader": "github:ilmente/organizer-loader",
     "ramda": "~0.18.0",
     "resolve-url-loader": "~1.4.3",
@@ -42,6 +48,6 @@
     "shelljs": "~0.5.3",
     "style-loader": "~0.13.0",
     "url-loader": "~0.5.7",
-    "webpack": "~1.12.6"
+    "webpack": "~1.13.1"
   }
 }
