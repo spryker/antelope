@@ -1,5 +1,8 @@
 # Changelog
 
+### 3.0.0 beta 
+- new design
+
 ### 2.0.4
 - yves build process searches for common entry points in core, even when there is a target theme
 

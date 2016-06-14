@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../antelope.js');
+require('../antelope-global.js');
