@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.1.0
+- new dependencies (`poscss-loader` and `autoprefixer`)
+- updated dependencies (less warnings)
+- provider system updated (full support for bundle aliases)
+- allow configuration extensions
+
 ### 2.0.4
 - yves build process searches for common entry points in core, even when there is a target theme
 
