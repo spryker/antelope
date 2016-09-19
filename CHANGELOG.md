@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.1.1
+- `.allowUnknownOption()` added to build command in order to allow custom flags
+
 ### 2.1.0
 - new dependencies (`poscss-loader` and `autoprefixer`)
 - updated dependencies (less warnings)
