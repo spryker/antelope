@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.1.2
+- `--no-bin-link` added to build to install zed bundles' modules on windows based machines
+
 ### 2.1.1
 - `.allowUnknownOption()` added to build command in order to allow custom flags
 
