@@ -1,7 +1,11 @@
 # Changelog
 
+### 2.2.0
+- `install` command runs using `npm install --no-optional` to prevent os compatibility issues
+- `install` command has an optional flag `-n|--nosym` to run `npm install --no-optional --no-bin-links`; this is useful to prevent symlink generation on Windows systems
+
 ### 2.1.2
-- `--no-bin-link` added to build to install zed bundles' modules on windows based machines
+- `--no-bin-links` added to build to install zed bundles' modules on windows based machines
 
 ### 2.1.1
 - `.allowUnknownOption()` added to build command in order to allow custom flags
