@@ -1,5 +1,7 @@
 # Antelope
-Frontend automation tool (useful for Spryker projects)
+[![License](https://img.shields.io/github/license/spryker/antelope.svg)](https://github.com/spryker/antelope/)
+
+Frontend automation tool (useful for Spryker projects and beyond)
 
 ### Requirements
 - `node.js` 5.0.0 or above;
