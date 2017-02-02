@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.2.1
+- remove github ssh deps, require them using https
+
 ### 2.2.0
 - `install` command runs using `npm install --no-optional` to prevent os compatibility issues
 - `install` command has an optional flag `-n|--nosym` to run `npm install --no-optional --no-bin-links`; this is useful to prevent symlink generation on Windows systems
