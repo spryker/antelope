@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.2.2
+- zed: load dependencies starting from Gui module and cascading to other modules and project at last
+
 ### 2.2.1
 - remove github ssh deps, require them using https
 
