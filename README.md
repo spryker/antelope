@@ -3,6 +3,8 @@
 
 Frontend automation tool (useful for Spryker projects and beyond)
 
+**DEPRECATED**
+
 ### Requirements
 - `node.js` 5.0.0 or above;
 - `npm` 3.6.0 or above;
